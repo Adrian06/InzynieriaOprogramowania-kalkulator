@@ -8,6 +8,4 @@ def dodaj(a,b):
 pierwsza  = input()
 druga = input()
 
-print(dodaj(pierwsza, druga)
-
-print("Hello world")
+print(dodaj(pierwsza, druga))
